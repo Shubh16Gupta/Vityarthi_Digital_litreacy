@@ -1,8 +1,8 @@
 # Task 3: Platforms
 
 ## Part 1 - Hacker Rank
-![HackerRank Profile](task-3-platforms/Profilw.png)
-![HackerRank Certificate](task-3-platforms/Certificate.png)
+![HackerRank Profile](task-3-platforms/profile.png)
+![HackerRank Certificate](task-3-platforms/certificate.png)
 
 
 # Digital Literacy Awareness Quiz
