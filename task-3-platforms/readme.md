@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1ggG3ZNk8aQRzIlj457YB2nvE_h1q9QRbRzy_KuVd
 
 ---
 ### Question  
-![Question 1](task-3-platforms/1.png)
+![Question 1]([task-3-platforms/1.png](https://github.com/Shubh16Gupta/Vityarthi_Digital_litreacy/blob/46fafd892e12967e749415b0f8bd61e89bcfe6fd/task-3-platforms/1.png))
 ![Question 2](task-3-platforms/2.png)
 ![Question 3](task-3-platforms/3.png)
 ![Question 4](task-3-platforms/4.png)
