@@ -2,7 +2,7 @@
 
 ## Part 1 - Hacker Rank
 ![HackerRank Profile](./profile.png)
-![HackerRank Certificate](./certificate.png)
+![HackerRank Certificate](certificate.png)
 
 
 # Digital Literacy Awareness Quiz
@@ -24,11 +24,6 @@ https://docs.google.com/spreadsheets/d/1ggG3ZNk8aQRzIlj457YB2nvE_h1q9QRbRzy_KuVd
 - Total Questions: 5  
 - Type: Mixed Multiple Choice, Short Answer  
 - Purpose: promote awareness about safe and responsible digital behavior  
-
----
-
-### Google Form
-![Google Form Screenshot](task-3-platforms/form-screenshot.png)
 
 ---
 ### Question  
