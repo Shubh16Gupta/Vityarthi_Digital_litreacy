@@ -1,8 +1,8 @@
 # Task 3: Platforms
 
 ## Part 1 - Hacker Rank
-![HackerRank Profile](task-3-platforms/profile.png)
-![HackerRank Certificate](task-3-platforms/certificate.png)
+![HackerRank Profile](./profile.png)
+![HackerRank Certificate](./certificate.png)
 
 
 # Digital Literacy Awareness Quiz
@@ -32,14 +32,14 @@ https://docs.google.com/spreadsheets/d/1ggG3ZNk8aQRzIlj457YB2nvE_h1q9QRbRzy_KuVd
 
 ---
 ### Question  
-![Question 1]([task-3-platforms/1.png](https://github.com/Shubh16Gupta/Vityarthi_Digital_litreacy/blob/46fafd892e12967e749415b0f8bd61e89bcfe6fd/task-3-platforms/1.png))
-![Question 2](task-3-platforms/2.png)
-![Question 3](task-3-platforms/3.png)
-![Question 4](task-3-platforms/4.png)
-![Question 5](task-3-platforms/5.png)
+![Question 1](./q1.png))
+![Question 2](./q2.png)
+![Question 3](./q3.png)
+![Question 4](./q4.png)
+![Question 5](./q5.png)
 
 ---
 ### Responses 
-![Responses Screenshot](task-3-platforms/response.png)
+![Responses Screenshot](./response.png)
 
 ---
