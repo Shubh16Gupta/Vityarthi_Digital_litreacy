@@ -2,7 +2,7 @@
 
 ## Part 1 - Hacker Rank
 ![HackerRank Profile](./profile.png)
-![HackerRank Certificate](certificate.png)
+![HackerRank Certificate](./certificate.png)
 
 
 # Digital Literacy Awareness Quiz
